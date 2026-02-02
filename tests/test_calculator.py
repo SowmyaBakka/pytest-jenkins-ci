@@ -8,3 +8,6 @@ def test_subtract():
 
 def test_sanity():
     assert 1 == 1
+    #Adding some comments
+def test_sanity2():
+    assert True == True
